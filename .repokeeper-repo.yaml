@@ -1,0 +1,10 @@
+apiVersion: repokeeper/v1
+kind: RepoMetadata
+repo_id: github.com/skaphos/.github
+name: Skaphos GitHub Defaults
+labels:
+    kind: community
+    org: skaphos
+    role: org-community
+entrypoints:
+    readme: README.md
